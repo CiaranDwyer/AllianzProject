@@ -1,7 +1,5 @@
 # AllianzProject
 
-This repo was used to learn GIT
+This repo was used to learn GIT & GUT HUB
 
-
-
-![download](https://user-images.githubusercontent.com/114580079/193875581-94fe1d20-fce2-4c49-a40c-bc2e42196447.jpeg)
+![d7c0f8dcf66470ef3c4aec87fc60a715](https://user-images.githubusercontent.com/114580079/193876495-0913497a-7232-4786-a460-bd8d5b79e2b1.jpeg)
