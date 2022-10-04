@@ -1,4 +1,4 @@
-# Apple
+# Ciaran Dwyer Bitcoin Banking Software
 
 This repo was used to learn GIT & GUT HUB
 
