@@ -1,4 +1,4 @@
-# AllianzProject
+# Apple
 
 This repo was used to learn GIT & GUT HUB
 
